@@ -1,0 +1,5 @@
+{
+  "name" : "Test2App",
+  "type" : "page",
+  "controller" : "AppC"
+}
